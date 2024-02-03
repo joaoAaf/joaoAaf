@@ -1,16 +1,16 @@
-### Hi there 👋
+### 🙋‍♂️ Sou só um cara buscando fazer o que gosto 😉
 
-<!--
-**joaoAaf/joaoAaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente tenho trabalhado em projetos pessoais
+- 🌱 Além da faculdade, estou estudando Golang, redes e segurança
+- 📫 Pode me contatar no email: joao.anderson.af@gmail.com
+- ⚡ Links para projetos pessoais (Em construção 🚧):
+<br><a>1️⃣ https://frequencia.codermodeon.com/</a>
+<br><a>2️⃣ ...</a>
+<br><a>3️⃣ ...</a>
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaoaaf&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoaaf&hide=html,css&show_icons=true&theme=transparent&langs_count=4&layout=donut" />
+</a>
