@@ -14,3 +14,10 @@
 <a href="https://github.com/joaoAaf">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoaaf&hide=html,css&show_icons=true&theme=transparent&langs_count=4&layout=donut" />
 </a>
+
+##
+
+<div> 
+  <a href = "mailto:joao.anderson.af@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-anderson-33366057" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
