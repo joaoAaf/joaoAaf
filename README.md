@@ -8,9 +8,9 @@
 <br><a>2️⃣ ...</a>
 <br><a>3️⃣ ...</a>
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/joaoAaf">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaoaaf&show_icons=true&theme=transparent" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/joaoAaf">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoaaf&hide=html,css&show_icons=true&theme=transparent&langs_count=4&layout=donut" />
 </a>
