@@ -8,23 +8,23 @@
       align-items: center;
       justify-content: center;
       padding-top: 1%;
-    }
-
-    .container {
-      height: 80%;
-      display: contents;
-      align-items: center;
-      justify-content: center;
-      background-image: url("https://images.unsplash.com/photo-1508615070457-7baeba4003e1");
+      background-image: url("background.jpg");
       background-size: cover;
     }
 
+    .container {
+      display: contents;
+      align-items: center;
+      justify-content: center;
+    }
+
     .clock {
-      width: 600px;
-      height: 600px;
+      width: 500px;
+      height: 500px;
       border-radius: 50%;
       background-color: black;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      opacity: 0.3;
       position: relative;
     }
 
@@ -75,8 +75,8 @@
     }
 
     .number2 {
-      top: 285px;
-      right: 265px;
+      top: 235px;
+      right: 215px;
       transform: rotate(90deg);
       color: white;
     }
@@ -88,8 +88,8 @@
     }
 
     .number4 {
-      top: 285px;
-      left: 265px;
+      top: 235px;
+      left: 215px;
       transform: rotate(270deg);
       color: white;
     }
@@ -98,9 +98,23 @@
 
 <body class="text-center">
   <div class="container">
-    <div style="text-align:center; ">
-      <p style="font-size: 2em; letter-spacing:0.2em;">CODER MODE ON!</p>
-      <p style="font-size: 2em; letter-spacing:0.2em;">AGUARDE...</p>
+    <div style="color: burlywood; text-shadow: 2px 2px black; text-align:center; font-size:  2.5em; letter-spacing:0.2em;">
+      <p>CODER MODE ON!</p>
+      <p>
+        <a style="box-shadow: 2px 2px black;" href="https://github.com/joaoAaf"><img
+            src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+            target="_blank"></a>
+        <a style="box-shadow: 2px 2px black;" href="mailto:joao.anderson.af@gmail.com"><img
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+            target="_blank"></a>
+        <a style="box-shadow: 2px 2px black;" href="https://www.linkedin.com/in/jo%C3%A3o-anderson-33366057" target="_blank"><img
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            target="_blank"></a>
+      </p>
+    </div>
+    <div style="color: burlywood; text-shadow: 2px 2px black; text-align:center; letter-spacing:0.2em">
+      <p style="font-size: 2em;">PORTIFÓLIO EM CONSTRUÇÃO</p>
+      <p style="font-size: 2em;">AGUARDE...</p>
     </div>
     <div class="clock">
       <div class="clock-face">
@@ -113,23 +127,7 @@
         <div class="number number4">|</div>
       </div>
     </div>
-    <div style="text-align:center; letter-spacing:0.2em; margin-top: 3%;">
-      <p style="font-size: 2em;">PORTIFÓLIO EM CONSTRUÇÃO</p>
-    </div>
   </div>
-  <footer>
-    <p>
-      <a href="https://github.com/joaoAaf"><img
-        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-        target="_blank"></a>
-      <a href="mailto:joao.anderson.af@gmail.com"><img
-          src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-          target="_blank"></a>
-      <a href="https://www.linkedin.com/in/jo%C3%A3o-anderson-33366057" target="_blank"><img
-          src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-          target="_blank"></a>
-    </p>
-  </footer>
   <script>
     const secondHand = document.querySelector('.second-hand');
     const minuteHand = document.querySelector('.minute-hand');
