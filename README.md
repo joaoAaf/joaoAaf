@@ -1,8 +1,7 @@
 ### 🙋‍♂️ Sou só um cara buscando fazer o que gosto 😉
 
 - 🔭 Atualmente tenho trabalhado em projetos pessoais
-- 🌱 Além da faculdade, estou estudando Golang, redes e segurança
-- 📫 Pode me contatar no email: joao.anderson.af@gmail.com
+- 🌱 Além da faculdade, estou estudando Golang, Java e Devops
 - ⚡ Links para projetos pessoais (Em construção 🚧):
 <br><a>1️⃣ https://frequencia.codermodeon.com/</a>
 <br><a>2️⃣ ...</a>
