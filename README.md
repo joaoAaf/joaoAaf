@@ -1,9 +1,9 @@
 ### 🙋‍♂️ Sou só um cara buscando fazer o que gosto 😉
 
 - 🔭 Atualmente tenho trabalhado em projetos pessoais
-- 🌱 Além da faculdade, estou estudando Golang, Java e Devops
+- 🌱 Além da faculdade, estou estudando Golang, Java, javascript e Devops
 - ⚡ Links para projetos pessoais (Em construção 🚧):
-<br><a>1️⃣ https://frequencia.codermodeon.com/</a>
+<br><a>1️⃣ https://frequencia.appsemaperreio.com/</a>
 <br><a>2️⃣ ...</a>
 <br><a>3️⃣ ...</a>
 <br>
