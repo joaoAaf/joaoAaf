@@ -1,10 +1,10 @@
 ### 🙋‍♂️ Sou só um cara buscando fazer o que gosto 😉
 
 - 🔭 Atualmente tenho trabalhado em projetos pessoais
-- 🌱 Além da faculdade, estou estudando Golang, Java, javascript e Devops
+- 🌱 Estudando Java, Terraform e OCI
 - ⚡ Links para projetos pessoais (Em construção 🚧):
 <br><a>1️⃣ https://frequencia.appsemaperreio.com/</a>
-<br><a>2️⃣ ...</a>
+<br><a>2️⃣ https://github.com/joaoAaf/infra-oci-terraform</a>
 <br><a>3️⃣ ...</a>
 <br>
 <a href="https://github.com/joaoAaf">
